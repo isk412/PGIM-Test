@@ -1,0 +1,6 @@
+a: Occurs when there are conflicting changes, such as multiple changes attempting to be pushed in the same region
+b: I always wanted to be an architect
+c: Once the feature branch is fully functional and tested, merge with master branch
+d: Spanish, i took classes in high school but never fully learned it.
+e: change the files and add changes (changes must work)
+f: finishing finals
